@@ -1,2 +1,7 @@
-cache/*
+# DIR #
+############
+/cache/*
+
+# Packages #
+############
 *.pyc
